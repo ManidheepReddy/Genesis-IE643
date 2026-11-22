@@ -1,0 +1,12 @@
+diffusers>=0.35
+transformers
+accelerate
+peft
+torch
+opencv-python
+imageio[ffmpeg]
+ftfy
+gradio
+pandas
+matplotlib
+huggingface_hub

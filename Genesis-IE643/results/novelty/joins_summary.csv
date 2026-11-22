@@ -1,0 +1,4 @@
+run,median_pixel_jump,mean_abslog2_speed,speed_drops(<0.9),speed_rises(>1.1),min_ratio,max_ratio,mean_end_speedup,"motion_break (first, n)","appearance_break (first, n)","colour_jump_flag (first, n)",dE_last_clip_vs_first,overexp_last_%
+C,1.331,0.769,3,6,0.35,3.472,1.161,"(1, 4)","(None, 0)","(1, 6)",8.539,5.652
+C + LoRA,1.235,0.583,7,1,0.279,1.447,1.436,"(3, 4)","(5, 1)","(1, 7)",7.973,3.974
+C + LoRA + colour hand-off,1.077,0.582,7,1,0.279,1.446,1.436,"(3, 4)","(5, 1)","(None, 0)",8.034,3.692

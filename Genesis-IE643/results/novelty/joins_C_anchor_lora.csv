@@ -1,0 +1,11 @@
+join,time_s,pixel_jump,speed_ratio,colour_jump,end_speedup,lab_L_from_start,motion_break,appearance_break,colour_jump_flag
+1,2.04,1.322,0.891,27.357,1.18,1.146,False,False,True
+2,3.88,0.67,0.889,5.707,1.161,0.55,False,False,True
+3,5.71,0.953,0.279,5.854,1.314,0.728,True,False,True
+4,7.54,1.147,0.581,2.363,2.534,0.96,True,False,False
+5,9.38,3.059,1.088,2.787,2.237,0.853,False,True,False
+6,11.21,1.58,0.479,3.07,0.87,0.422,True,False,True
+7,13.04,1.018,1.007,3.101,0.951,0.274,False,False,True
+8,14.88,1.057,0.685,4.718,1.008,1.359,False,False,True
+9,16.71,2.748,0.664,2.045,1.849,-0.268,True,False,False
+10,18.54,1.692,1.447,11.061,1.254,0.19,False,False,True
